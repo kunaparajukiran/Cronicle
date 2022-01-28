@@ -8,7 +8,7 @@
 	"main": "lib/main.js",
 	"scripts": {
 		"test": "pixl-unit lib/test.js",
-		 "start": "node lib/main.js",
+		 "start": "node lib/main.js"
 	},
 	"repository": {
 		"type": "git",
